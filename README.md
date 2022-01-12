@@ -7,10 +7,10 @@
 #### This is a Flask web app which predicts fare of Flight ticket.
 
 ## Motivation
-#### To build a real-life application for predicting the fare of flight-ticket.
+#### To build a real-life application for predicting the fare of Flight ticket.
 
 ## Deployement on Heroku
-#### First, we will login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+#### First, we will login or signup in order to create virtual app. We can either connect our github profile or download ctl to manually deploy this project.
 #### ![image](https://user-images.githubusercontent.com/76994894/149162571-d0c228ad-dc1f-4fce-af4e-ae87367d70f3.png)
 #### Our next step would be to follow the instruction given on Heroku Documentation to deploy a web app.
 
@@ -35,5 +35,5 @@
 ## Future scope 
 #### Use multiple Algorithms
 #### Optimize Flask app.py
-#### Front-End
+#### Front-End development
 

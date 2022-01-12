@@ -16,9 +16,9 @@
 
 ## Directory Tree
 #### ├── static 
-#### │      ├── css
+#### │         ├── css
 #### ├── template
-#### │      ├── home.html
+#### │         ├── home.html
 #### ├── Procfile
 #### ├── README.md
 #### ├── app.py

@@ -19,19 +19,20 @@
 ## Deployement on Heroku
 
 ## Directory Tree
-├── static 
-│   ├── css
-├── template
-│   ├── home.html
-├── Procfile
-├── README.md
-├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
-├── requirements.txt
+ ├── static 
+ │   ├── css
+ ├── template
+ │   ├── home.html
+ ├── Procfile
+ ├── README.md
+ ├── app.py
+ ├── flight_price.ipynb
+ ├── flight_rf.pkl
+ ├── requirements.txt
 
 ## Technologies Used
-https://camo.githubusercontent.com/3cdf9577401a2c7dceac655bbd37fb2f3ee273a457bf1f2169c602fb80ca56f8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667 
+![image](https://user-images.githubusercontent.com/76994894/149161293-5a9f5c9b-a801-44dd-8e81-f7f589fc46ff.png)![image](https://user-images.githubusercontent.com/76994894/149161350-fae27dae-05b8-4f2e-b6c5-395b95320abc.png)
+
 ## Future scope 
 #### Use multiple Algorithms
 #### Optimize Flask app.py
